@@ -17,3 +17,5 @@ FORM_CATEGORIE      =   "//android.widget.FrameLayout[@resource-id=\"android:id/
 FORM_URL            =   "//android.widget.FrameLayout[@resource-id=\"android:id/content\"]/android.widget.FrameLayout/android.view.View/android.view.View/android.view.View/android.view.View/android.view.View[2]/android.view.View/android.widget.EditText[5]"
 
 FORM_BUTTON_ADD     =   "//android.widget.Button[@content-desc=\"Ajouter\"]"
+
+PRODUCT             =   "//android.widget.ImageView[@content-desc=\"Mens Cotton Jacket 55.99 $\"]"

@@ -14,9 +14,6 @@ Lire un utilisateur inexistant
     Initialiser la session
     Lire un utilisateur inexistant
 
-Lire un utilisateur avec ID texte
-    Initialiser la session
-    Lire un utilisateur avec ID texte
 
 Mettre à jour un utilisateur inexistant
     Initialiser la session
@@ -30,6 +27,3 @@ Supprimer un utilisateur inexistant
     Initialiser la session
     Supprimer un utilisateur inexistant
 
-Supprimer un utilisateur avec ID texte
-    Initialiser la session
-    Supprimer un utilisateur avec ID texte

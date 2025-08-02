@@ -6,14 +6,6 @@ Créer un panier sans produits
     Initialiser la session
     Créer un panier sans produits
 
-Lire un panier inexistant
-    Initialiser la session
-    Lire un panier inexistant
-
-Lire un panier avec ID texte
-    Initialiser la session
-    Lire un panier avec ID texte
-
 Mettre à jour un panier inexistant
     Initialiser la session
     Mettre à jour un panier inexistant

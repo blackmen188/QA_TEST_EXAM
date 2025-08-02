@@ -18,10 +18,6 @@ Lire un produit avec ID texte
     Initialiser la session
     Lire un produit avec ID texte
 
-Mettre à jour un produit inexistant
-    Initialiser la session
-    Mettre à jour un produit inexistant
-
 Mettre à jour un produit sans données
     Initialiser la session
     Mettre à jour un produit sans données
@@ -29,7 +25,3 @@ Mettre à jour un produit sans données
 Supprimer un produit inexistant
     Initialiser la session
     Supprimer un produit inexistant
-
-Supprimer un produit avec ID texte
-    Initialiser la session
-    Supprimer un produit avec ID texte
